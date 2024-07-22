@@ -29,20 +29,31 @@ The main class of the application is `JavaApplication1`, which contains the `mai
 ## Example
 
 Here is an example of running the application:
-Step1 - choose 1 enter 1!
+
+
+Step1 - choose 1 enter 1.
+
 <img src="https://github.com/user-attachments/assets/6bf78d79-9f12-40c7-8895-f6a7feecb946" />
 
-Step2
+
+Step2 - enter any number
+
 <img src="https://github.com/user-attachments/assets/4b2b2320-1cfc-4653-827a-894465234df3" />
 
+
 Step3
+
 <img src="https://github.com/user-attachments/assets/4f876887-7bb4-41c8-b913-09ca943e5da2" />
 
+
 Output
+
 <img src="https://github.com/user-attachments/assets/fb13b00d-c9c2-4b77-aed8-c8f70caedea1" />
 
+
 ERRORS to lookout for
-<img src="errors](https://github.com/user-attachments/assets/b6ba5483-0575-447a-9eea-3d2bba513fd5" />
+
+<img src="https://github.com/user-attachments/assets/b6ba5483-0575-447a-9eea-3d2bba513fd5" />
 
 
 
